@@ -51,7 +51,7 @@
 
 /* Begin PBXFileReference section */
 		8B4EAA6F1E9848B5003E919A /* Associated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Associated.swift; sourceTree = "<group>"; };
-		8B4EAA701E9848B5003E919A /* Haptic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Haptic.swift; sourceTree = "<group>"; };
+		8B4EAA701E9848B5003E919A /* Haptic.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = Haptic.swift; sourceTree = "<group>"; tabWidth = 4; };
 		8B4EAA711E9848B5003E919A /* Hapticable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hapticable.swift; sourceTree = "<group>"; };
 		8BA8FAF81E98479800A3289A /* Haptica.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Haptica.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BA8FAFB1E98479800A3289A /* Haptica.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Haptica.h; sourceTree = "<group>"; };
@@ -99,7 +99,9 @@
 				8BA8FB081E9847DD00A3289A /* Example */,
 				8BA8FAF91E98479800A3289A /* Products */,
 			);
+			indentWidth = 4;
 			sourceTree = "<group>";
+			tabWidth = 4;
 		};
 		8BA8FAF91E98479800A3289A /* Products */ = {
 			isa = PBXGroup;

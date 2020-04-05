@@ -13,6 +13,7 @@ public extension Haptic {
     
     static func play(_ notes: [Note]) {
         guard #available(iOS 10, *), queue.operations.isEmpty else { return }
+        guard Self.enabled else { return }
         
         for note in notes {
             let operation = note.operation
